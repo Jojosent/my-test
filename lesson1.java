@@ -50,3 +50,4 @@ public class lesson1{
 	}
 }
 */
+///Aiidyn chort///
